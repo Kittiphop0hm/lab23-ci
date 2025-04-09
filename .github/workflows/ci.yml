@@ -15,7 +15,7 @@ docker-ci:
 
      - name: Set up Docker Compose
        run: |
-         docker compose up -d
+         docker copose up -d
          echo "⏳ Waiting for containers to initialize..."
          sleep 20
 
