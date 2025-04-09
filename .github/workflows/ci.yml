@@ -6,7 +6,7 @@ push:
 pull_request:
 
 jobs:
-docker-ci:
+ docker-ci:
    runs-on: ubuntu-latest
 
    steps:
